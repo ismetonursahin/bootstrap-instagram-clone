@@ -1,2 +1,2 @@
 # bootstrap-instagram-clone
-kodluyoruz-bootstrap-instagram-clone-odev
+![instagram](insta/Ads%C4%B1z.png)
